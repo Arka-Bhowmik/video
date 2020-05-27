@@ -7,7 +7,9 @@ Copyright (c) 2020, Arka Bhowmik and Suman Chakraborty
 Use of source video, with or without modification, are permitted provided that the following conditions were met.
 
 Citing the source video.
+
 Source paper: Details will be modified upon publication.
+
 Further information can be obtained by writing to Dr. Arka Bhowmik (arkabhowmik@yahoo.co.uk).
 
 Details of files
