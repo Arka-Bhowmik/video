@@ -14,6 +14,8 @@ Further information can be obtained by writing to Dr. Arka Bhowmik (arkabhowmik@
 
 Details of files
 
-[1] VideoS1.mp4: Blood perfusion video of healthy participant, participant with oral squamous cell carcinoma (OSCC), and with oral submucosa fibrosis (OSF)
+[1] VideoS1.mp4: Blood perfusion imaging device operated by an user
 
-[2] VideoS2.mp4: Blood perfusion video of the dorsum surface of human hand
+[2] VideoS2.mp4: Blood perfusion video of healthy participant, participant with oral squamous cell carcinoma (OSCC), and with oral submucosa fibrosis (OSF)
+
+[3] VideoS3.mp4: Blood perfusion video of the dorsum surface of human hand
